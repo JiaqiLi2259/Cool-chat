@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">酷聊</string>
+    <string name="app_version">CoolChat 1.0.0</string>
+    <string name="app_author">Designed by Jiaqi Li</string>
+</resources>
